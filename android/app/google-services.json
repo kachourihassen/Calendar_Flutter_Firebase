@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153414302655",
+    "project_id": "stage-4-sim",
+    "storage_bucket": "stage-4-sim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153414302655:android:f125e023c08d823f89ff0a",
+        "android_client_info": {
+          "package_name": "com.example.login_singup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153414302655-5h6jp2iatod68vrb8rdth0cr6o2247rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_singup",
+            "certificate_hash": "d5a0e9ea4dc2f2148722e679a1c4e60831b5604b"
+          }
+        },
+        {
+          "client_id": "153414302655-4mlh0p7a4ecvuqf0p352mb66cgujm8dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBleM6nQ7R2DAYp3MvQYgFA_Z934CaBtwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153414302655-4mlh0p7a4ecvuqf0p352mb66cgujm8dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
